@@ -1,0 +1,63 @@
+﻿生成启动时间为 2022/11/24 16:22:38。
+     1>项目“C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\SimulatorCtl.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.7.0\5.7\msvc2013\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtCore /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtGui /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtANGLE /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtNetwork /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtWidgets /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtXml /I..\source /Zi /nologo /W1 /WX- /MP /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /D QT_WIDGETS_LIB /D QT_XML_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\\" /Fd"C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\source\SimulatorCtl.cpp
+         SimulatorCtl.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1293): warning C4005: “M_E”: 宏重定义
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(152) : 参见“M_E”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1294): warning C4005: “M_LOG2E”: 宏重定义
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(156) : 参见“M_LOG2E”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1295): warning C4005: “M_LOG10E”: 宏重定义
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(160) : 参见“M_LOG10E”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1296): warning C4005: “M_LN2”: 宏重定义
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(164) : 参见“M_LN2”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1297): warning C4005: “M_LN10”: 宏重定义
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(168) : 参见“M_LN10”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1298): warning C4005: “M_PI”: 宏重定义
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(172) : 参见“M_PI”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1299): warning C4005: “M_PI_2”: 宏重定义
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(176) : 参见“M_PI_2”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1300): warning C4005: “M_PI_4”: 宏重定义
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(180) : 参见“M_PI_4”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1301): warning C4005: “M_1_PI”: 宏重定义
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(184) : 参见“M_1_PI”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1302): warning C4005: “M_2_PI”: 宏重定义
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(188) : 参见“M_2_PI”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1303): warning C4005: “M_2_SQRTPI”: 宏重定义
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(192) : 参见“M_2_SQRTPI”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1304): warning C4005: “M_SQRT2”: 宏重定义
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(196) : 参见“M_SQRT2”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1305): warning C4005: “M_SQRT1_2”: 宏重定义
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(200) : 参见“M_SQRT1_2”的前一个定义
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\bin\Debug\\SimulatorCtl.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.7.0\5.7\msvc2013\lib /LIBPATH:"C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\3thPart\lib\\" qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Networkd.lib Qt5Widgetsd.lib Qt5Xmld.lib BusClientv3.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\bin\Debug\SimulatorCtl.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\bin\Debug\SimulatorCtl.lib" /MACHINE:X86 /SAFESEH "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\SimulatorCtl.res"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\EffectsConfig.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\EffectsManager.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\BasicExcel.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\FileManageThread.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\LogSystem.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\main.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\NetWorkManager.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\SensingWidget.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\SimulationNetWorkManager.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\SimulationPlatform.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\SimulationSendThread.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\SimulatorCtl.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\UDPSocketImp.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\vector3D.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\moc_SimulatorCtl.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\moc_SensingWidget.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\moc_EffectsManager.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\moc_FileManageThread.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\moc_SimulationSendThread.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\moc_UDPSocketImp.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\moc_SimulationNetWorkManager.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\moc_SimulationPlatform.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\moc_NetWorkManager.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Debug\qrc_SimulatorCtl.obj"
+         SimulatorCtl.vcxproj -> C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\bin\Debug\SimulatorCtl.exe
+     1>已完成生成项目“C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\SimulatorCtl.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.84

@@ -1,0 +1,28 @@
+﻿生成启动时间为 2022/8/20 14:57:40。
+     1>项目“C:\Users\yangl\Desktop\SimulatorCtl\SimulatorCtl\project\SimulatorCtl.vcxproj”在节点 2 上(Build 个目标)。
+     1>QtFinalize:
+         Moc'ing ..\source\SimulationPlatform.h...
+         Moc'ing ..\source\NetWorkManager.h...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.7.0\5.7\msvc2013\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtCore /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtGui /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtANGLE /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtNetwork /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtWidgets /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtXml /I..\source /Zi /nologo /W1 /WX- /MP /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /D QT_WIDGETS_LIB /D QT_XML_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\source\NetWorkManager.cpp ..\source\SimulationPlatform.cpp .\GeneratedFiles\Debug\moc_SimulationPlatform.cpp .\GeneratedFiles\Debug\moc_NetWorkManager.cpp
+         NetWorkManager.cpp
+         SimulationPlatform.cpp
+         moc_SimulationPlatform.cpp
+         moc_NetWorkManager.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yangl\Desktop\SimulatorCtl\Win32\Debug\\SimulatorCtl.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.7.0\5.7\msvc2013\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Networkd.lib Qt5Widgetsd.lib Qt5Xmld.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\yangl\Desktop\SimulatorCtl\Win32\Debug\SimulatorCtl.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yangl\Desktop\SimulatorCtl\Win32\Debug\SimulatorCtl.lib" /MACHINE:X86 /SAFESEH Debug\main.obj
+         Debug\NetWorkManager.obj
+         Debug\SensingWidget.obj
+         Debug\SimulationPlatform.obj
+         Debug\SimulatorCtl.obj
+         Debug\moc_SimulatorCtl.obj
+         Debug\moc_SensingWidget.obj
+         Debug\moc_SimulationPlatform.obj
+         Debug\moc_NetWorkManager.obj
+         Debug\qrc_SimulatorCtl.obj
+         SimulatorCtl.vcxproj -> C:\Users\yangl\Desktop\SimulatorCtl\Win32\Debug\SimulatorCtl.exe
+     1>已完成生成项目“C:\Users\yangl\Desktop\SimulatorCtl\SimulatorCtl\project\SimulatorCtl.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.60

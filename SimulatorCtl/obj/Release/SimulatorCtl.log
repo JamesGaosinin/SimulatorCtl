@@ -1,0 +1,113 @@
+﻿生成启动时间为 2022/11/24 16:25:08。
+     1>项目“C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\SimulatorCtl.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.7.0\5.7\msvc2013\include /I.\GeneratedFiles\Release /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtCore /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtGui /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtANGLE /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtNetwork /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtWidgets /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtXml /I..\source /nologo /W1 /WX- /MP /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /D QT_WIDGETS_LIB /D QT_XML_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\\" /Fd"C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\source\EffectsConfig.cpp ..\source\EffectsManager.cpp ..\source\excel\BasicExcel.cpp ..\source\FileManageThread.cpp ..\source\LogSystem.cpp ..\source\main.cpp ..\source\NetWorkManager.cpp ..\source\SensingWidget.cpp ..\source\SimulationNetWorkManager.cpp ..\source\SimulationPlatform.cpp ..\source\SimulationSendThread.cpp ..\source\SimulatorCtl.cpp ..\source\UDPSocketImp.cpp ..\source\vector3D.cpp .\GeneratedFiles\Release\moc_SimulatorCtl.cpp .\GeneratedFiles\Release\moc_SensingWidget.cpp .\GeneratedFiles\Release\moc_EffectsManager.cpp .\GeneratedFiles\Release\moc_FileManageThread.cpp .\GeneratedFiles\Release\moc_SimulationSendThread.cpp .\GeneratedFiles\Release\moc_UDPSocketImp.cpp .\GeneratedFiles\Release\moc_SimulationNetWorkManager.cpp .\GeneratedFiles\Release\moc_SimulationPlatform.cpp .\GeneratedFiles\Release\moc_NetWorkManager.cpp .\GeneratedFiles\qrc_SimulatorCtl.cpp
+         EffectsConfig.cpp
+         EffectsManager.cpp
+         BasicExcel.cpp
+         FileManageThread.cpp
+         LogSystem.cpp
+         main.cpp
+     1>..\source\excel\BasicExcel.cpp(4438): warning C4805: “|=”: 在操作中将类型“int”与类型“bool”混合不安全 (..\source\excel\BasicExcel.cpp)
+         NetWorkManager.cpp
+         SensingWidget.cpp
+         SimulationNetWorkManager.cpp
+         SimulationPlatform.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1293): warning C4005: “M_E”: 宏重定义 (..\source\main.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(152) : 参见“M_E”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1294): warning C4005: “M_LOG2E”: 宏重定义 (..\source\main.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(156) : 参见“M_LOG2E”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1295): warning C4005: “M_LOG10E”: 宏重定义 (..\source\main.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(160) : 参见“M_LOG10E”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1296): warning C4005: “M_LN2”: 宏重定义 (..\source\main.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(164) : 参见“M_LN2”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1297): warning C4005: “M_LN10”: 宏重定义 (..\source\main.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(168) : 参见“M_LN10”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1298): warning C4005: “M_PI”: 宏重定义 (..\source\main.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(172) : 参见“M_PI”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1299): warning C4005: “M_PI_2”: 宏重定义 (..\source\main.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(176) : 参见“M_PI_2”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1300): warning C4005: “M_PI_4”: 宏重定义 (..\source\main.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(180) : 参见“M_PI_4”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1301): warning C4005: “M_1_PI”: 宏重定义 (..\source\main.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(184) : 参见“M_1_PI”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1302): warning C4005: “M_2_PI”: 宏重定义 (..\source\main.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(188) : 参见“M_2_PI”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1303): warning C4005: “M_2_SQRTPI”: 宏重定义 (..\source\main.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(192) : 参见“M_2_SQRTPI”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1304): warning C4005: “M_SQRT2”: 宏重定义 (..\source\main.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(196) : 参见“M_SQRT2”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1305): warning C4005: “M_SQRT1_2”: 宏重定义 (..\source\main.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(200) : 参见“M_SQRT1_2”的前一个定义
+         SimulationSendThread.cpp
+         SimulatorCtl.cpp
+         UDPSocketImp.cpp
+         vector3D.cpp
+         moc_SimulatorCtl.cpp
+         moc_SensingWidget.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1293): warning C4005: “M_E”: 宏重定义 (..\source\SimulatorCtl.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(152) : 参见“M_E”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1294): warning C4005: “M_LOG2E”: 宏重定义 (..\source\SimulatorCtl.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(156) : 参见“M_LOG2E”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1295): warning C4005: “M_LOG10E”: 宏重定义 (..\source\SimulatorCtl.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(160) : 参见“M_LOG10E”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1296): warning C4005: “M_LN2”: 宏重定义 (..\source\SimulatorCtl.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(164) : 参见“M_LN2”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1297): warning C4005: “M_LN10”: 宏重定义 (..\source\SimulatorCtl.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(168) : 参见“M_LN10”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1298): warning C4005: “M_PI”: 宏重定义 (..\source\SimulatorCtl.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(172) : 参见“M_PI”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1299): warning C4005: “M_PI_2”: 宏重定义 (..\source\SimulatorCtl.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(176) : 参见“M_PI_2”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1300): warning C4005: “M_PI_4”: 宏重定义 (..\source\SimulatorCtl.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(180) : 参见“M_PI_4”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1301): warning C4005: “M_1_PI”: 宏重定义 (..\source\SimulatorCtl.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(184) : 参见“M_1_PI”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1302): warning C4005: “M_2_PI”: 宏重定义 (..\source\SimulatorCtl.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(188) : 参见“M_2_PI”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1303): warning C4005: “M_2_SQRTPI”: 宏重定义 (..\source\SimulatorCtl.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(192) : 参见“M_2_SQRTPI”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1304): warning C4005: “M_SQRT2”: 宏重定义 (..\source\SimulatorCtl.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(196) : 参见“M_SQRT2”的前一个定义
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(1305): warning C4005: “M_SQRT1_2”: 宏重定义 (..\source\SimulatorCtl.cpp)
+                 c:\qt\qt5.7.0\5.7\msvc2013\include\qtcore\qmath.h(200) : 参见“M_SQRT1_2”的前一个定义
+         moc_EffectsManager.cpp
+         moc_FileManageThread.cpp
+         moc_SimulationSendThread.cpp
+         moc_UDPSocketImp.cpp
+         moc_SimulationNetWorkManager.cpp
+         moc_SimulationPlatform.cpp
+         moc_NetWorkManager.cpp
+         qrc_SimulatorCtl.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\bin\Release\\SimulatorCtl.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.7.0\5.7\msvc2013\lib /LIBPATH:"C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\3thPart\lib\\" qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Network.lib Qt5Widgets.lib Qt5Xml.lib BusClientv3.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\bin\Release\SimulatorCtl.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\bin\Release\SimulatorCtl.lib" /MACHINE:X86 /SAFESEH "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\SimulatorCtl.res"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\EffectsConfig.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\EffectsManager.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\BasicExcel.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\FileManageThread.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\LogSystem.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\main.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\NetWorkManager.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\SensingWidget.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\SimulationNetWorkManager.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\SimulationPlatform.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\SimulationSendThread.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\SimulatorCtl.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\UDPSocketImp.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\vector3D.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\moc_SimulatorCtl.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\moc_SensingWidget.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\moc_EffectsManager.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\moc_FileManageThread.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\moc_SimulationSendThread.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\moc_UDPSocketImp.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\moc_SimulationNetWorkManager.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\moc_SimulationPlatform.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\moc_NetWorkManager.obj"
+         "C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\obj\Release\qrc_SimulatorCtl.obj"
+         SimulatorCtl.vcxproj -> C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\..\bin\Release\SimulatorCtl.exe
+     1>已完成生成项目“C:\Users\Lenovo\Desktop\动感平台\SimulatorCtl(22-11-24--定版)\SimulatorCtl\project\SimulatorCtl.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.80

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<!-- 抖动比例 取值范围0.0 —— 1.0 -->
+	<ShockRatio value="0.6"></ShockRatio>
+	<!-- 转弯抖动比例增加值 取值范围0.0 —— 1.0 -->
+	<SwingShockRatio value="0.6"></SwingShockRatio>
+	<!-- 横滚缩小比率取值范围0.0 —— 1.0 -->
+	<RollRatio value="0.6"></RollRatio>
+	<!-- 转弯夸大倍数取值范围10—— 100 -->
+	<YawMultiple value="40"></YawMultiple>
+</config>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="gb2312"?>
+<BusRoot>
+  <!--
+  id:创建BusClient时的ID，BusClient组件根据此id读取对应的配置数据
+  maxpack_count:最大数据包缓存个数，如果满了就丢弃，设置为0则不限制
+  server_ip:总线中心的ip地址
+  server_port:总线中心的端口号
+  reconnect_interval:重连时间间隔，单位为秒
+  -->
+  <!--客户端1配置-->
+  <Client id="clientTMS" server_ip="192.168.6.12" server_port="5998" maxpack_count="5000" reconnect_interval="1">
+    <SubscribeData>
+      <!--订阅的数据 id:是订阅数据的标识为16进制数字范围为 0x01~0xff-->
+      <data id="0x45"  description="数据1"/>
+      <data id="0x51"  description="数据1"/>
+	<data id="0x52"  description="数据1"/>
+    </SubscribeData>
+  </Client>
+</BusRoot>
